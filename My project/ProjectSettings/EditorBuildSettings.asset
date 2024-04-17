@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes: []
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2b9e80f9d8d2738458c0d73fa5f2990b,
+      type: 2}
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: 425cd7092ee5d294fa2dd508b61651a2, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 3b06a15745b5f62458d0ac53fbe09a0a,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 6199cf8df4ac98e4e9af1ce02a814ae5, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: b84b614aa2bc9334b8a2ac3ecf8779f0, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 793f95f910e29454bb42ce2aac152f69,
+      type: 2}
